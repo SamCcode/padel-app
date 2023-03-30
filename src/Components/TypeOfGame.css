@@ -1,0 +1,37 @@
+.gamefield {
+    display: flex;
+    justify-content: center;
+}
+
+.team-red__field {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: red;
+    width: 15rem;
+    height: 15rem;
+}
+
+.team-green__field {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: green;
+    width: 15rem;
+    height: 15rem;
+}
+
+.scoreboard {
+    display: flex;
+    justify-content: center;
+}
+
+.scoreboard h3 {
+    margin: 1rem;
+    border: 1px solid black;
+    width: 4rem;
+}
+
+h2 {
+    margin: 0.5rem
+}

@@ -1,0 +1,19 @@
+.teams {
+    display: flex;
+    justify-content: center;
+}
+
+.teams__team {
+    margin: 2rem;
+}
+
+.inputsection {
+    display: flex;
+    max-width: 15rem;
+    flex-direction: column;
+    text-align: center;
+}
+
+
+
+
